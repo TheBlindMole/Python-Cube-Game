@@ -1,6 +1,7 @@
 # Mundo de Blocos
-![print](https://github.com/TheBlindMole/Desktop-Mage-Pet-in-Python/blob/main/img/print.png?raw=true)
-Um jogo simples em primeira pessoa feito com [Ursina Engine](https://www.ursinaengine.org/)
+![print]()
+
+#Um jogo simples em primeira pessoa feito com [Ursina Engine](https://www.ursinaengine.org/)
 
 ## O que o jogo faz
 
